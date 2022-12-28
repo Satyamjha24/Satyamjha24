@@ -22,7 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/satyam kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.png" alt="satyam kumar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/satyam kumar" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/107462251/209813361-9f0f99ec-7061-403a-b57f-278e68c300a7.png)
+" alt="satyam kumar" height="30" width="40" /></a>
 <a href="https://codesandbox.com/satyamjha24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="satyamjha24" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/satyamjha24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="satyamjha24" height="30" width="40" /></a>
 </p>
