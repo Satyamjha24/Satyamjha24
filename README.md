@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **jhasatyam0118@gmail.com**
 
-- ⚡ Fun fact **I am Criket Lover**
+- ⚡ Fun fact **I am Cricket Lover**
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="left">
