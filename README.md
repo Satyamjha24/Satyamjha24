@@ -30,7 +30,7 @@
 <p align="left">
   <a href="https://github.com/Satyamjha24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="30" width="40" />Github</a>
   
-   <a href="https://drive.google.com/file/d/1Z3xaggU-uhvZKpefW7g7AFYcsLm53jNQ/view?usp=sharing" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="GitHub" height="30" width="40" />Resume</a>
+   <a href="https://drive.google.com/file/d/1h-SL3io_rzwuoBP34xFTY_ThgrVRhJqY/view?usp=sharing" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="GitHub" height="30" width="40" />Resume</a>
   
    <a href="https://satyamjha24.github.io/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="GitHub" height="30" width="40" />Portfolio</a>
 
