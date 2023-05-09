@@ -32,7 +32,7 @@
   
    <a href="https://drive.google.com/file/d/1Z3xaggU-uhvZKpefW7g7AFYcsLm53jNQ/view?usp=sharing" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="GitHub" height="30" width="40" />Resume</a>
   
-   <a href="https://satyamjha24.github.io" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="GitHub" height="30" width="40" />Portfolio</a>
+   <a href="https://satyamjha24.github.io/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="GitHub" height="30" width="40" />Portfolio</a>
 
 <a href="https://www.linkedin.com/in/satyam-kumar-5843b2227/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="satyam-jha-b89a791b3" height="30" width="40" />Linked In</a>
 </p>
