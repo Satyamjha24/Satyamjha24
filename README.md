@@ -70,7 +70,6 @@
 ![GitHub metrics](https://metrics.lecoq.io/Satyamjha24) 
 
 ## ❤ Views and Followers
-<a href="https://github.com/Satyamjha24/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Satyamjha24">
 </a>
 <a href="https://github.com/Satyamjha24?tab=followers"><img src="https://img.shields.io/github/followers/Satyamjha24?label=Followers&style=social" alt="GitHub Badge"></a>
