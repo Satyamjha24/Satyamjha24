@@ -75,13 +75,6 @@
 <a href="https://github.com/Satyamjha24?tab=followers"><img src="https://img.shields.io/github/followers/Satyamjha24?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
-<div align="center">
-  
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
  </p>
