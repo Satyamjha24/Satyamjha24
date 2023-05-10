@@ -65,7 +65,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Satyamjha24&theme=algolia" align="center" alt="Satyamjha24" width="100%" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satyamjha24&theme=2077" width="100%" />
 
-[![Satyam's github activity graph](username=Satyamjha24&bg_color=0d0d0d&color=c4c4c4&line=2ff4dd&point=c5c4c4&area=true&hide_border=true)](https://github.com/Satyamjha24/github-readme-activity-graph)
+[![Satyam's github activity graph](username=Satyamjha24&bg_color=0d0d0d&color=c4c4c4&line=2ff4dd&point=c5c4c4&area=true&hide_border=true)]()
 
 ![GitHub metrics](https://metrics.lecoq.io/Satyamjha24) 
 
