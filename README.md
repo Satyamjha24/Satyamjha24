@@ -1,7 +1,7 @@
  <img  src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <h1 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="https://www.linkedin.com/in/ajay-84sia">Satyam 💻</a>!
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm <a href="https://www.linkedin.com/in/satyam-84sia">Satyam 💻</a>!
 </h1> 
 <h2 align="center">A passionate full stack web developer from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
 
@@ -118,12 +118,11 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Satyamjha24&theme=2077" style="height: 300px"  />                                 </div>                                                                                       
                                                                                                                              
  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Satyamjha24&theme=react-dark&hide_border=true" /></a>    
+  <a><img alt="Satyam Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Satyamjha24&theme=react-dark&hide_border=true" /></a>    
   
   <div align="center">    
 <img src="https://github-profile-trophy.vercel.app/?username=Satyamjha24&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"  />                                 </div>  
 
-<img align="center" src="https://github.com/Satyamjha24/Satyamjha24/blob/output/github-contribution-grid-snake.svg" alt="snake" width="100%"/>
 
 ### ✍️ Random Dev Quote
   <div align="center">  
