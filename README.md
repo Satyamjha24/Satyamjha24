@@ -1,8 +1,8 @@
  <img  src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-
+<b>
 <h1 align="center">
   Hi there 👋  I'm <a href="https://www.linkedin.com/in/satyam-84sia">Satyam 💻</a>!
-</h1> 
+</h1> <b>
 <h2 align="center">A passionate full stack web developer from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
 
 - I am a tech-enthusiast, competent, well-focused full-stack developer👨‍💻. I am passionate about building fully functional web-applications.
