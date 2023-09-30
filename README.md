@@ -35,7 +35,7 @@
  
 - 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **BackEnd**
+- 🌱 I’m currently learning **Prompt Engineering**
 
 - 👯 I’m looking to collaborate on **<a href="https://www.linkedin.com/in/Satyamjha24/" target="_blank" >LinkedIn</a> & <a href="https://github.com/Satyamjha24" target="_blank" >GitHub</a>**
 
@@ -43,7 +43,7 @@
 
 - 🌐 Have a look at my <a href="https://satyamjha24.github.io/" target="_blank">Portfolio</a>
 
-- 📄 Download my <a href="https://drive.google.com/file/d/1h-SL3io_rzwuoBP34xFTY_ThgrVRhJqY/view?usp=share_link" target="_target">Resume</a>
+- 📄 Download my <a href="https://drive.google.com/file/d/1k84L--VD7hPGVBLuneGRYoa-M-OLIJwS/view?usp=sharing" target="_target">Resume</a>
 
 - 💬 Open for your suggestions
 
